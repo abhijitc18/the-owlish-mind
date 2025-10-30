@@ -8,7 +8,7 @@
 
 $servaername = "localhost";
 $username = "root";
-$password = "";
+$password = "root";
 $database = "owlishmind_db";
 
 $conn = mysqli_connect($servaername, $username, $password, $database);

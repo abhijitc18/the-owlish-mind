@@ -1,6 +1,6 @@
 <?php require '../includes/header.php'; ?>
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/bg_1.jpg');"
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common_banner.png');"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
@@ -176,7 +176,7 @@
             <div class="tab-pane fade show active" id="school" role="tabpanel" aria-labelledby="school-tab">
                 <div class="row mb-4">
                     <div class="col-md-6 ftco-animate">
-                        <img src="/theowlishmind/assets/images/WellnessProgramSchool.png"
+                        <img src="/theowlishmind/assets/images/School-Wellness-Programs.jpg"
                             class="img-fluid rounded shadow" alt="School Wellness Program">
                     </div>
                     <div class="col-md-6 ftco-animate">
@@ -354,7 +354,7 @@
             <div class="tab-pane fade" id="corporate" role="tabpanel" aria-labelledby="corporate-tab">
                 <div class="row mb-4">
                     <div class="col-md-6 ftco-animate">
-                        <img src="/theowlishmind/assets/images/WellnessProgramSchool.png"
+                        <img src="/theowlishmind/assets/images/Corporate-Wellness-Programs.jpg"
                             class="img-fluid rounded shadow" alt="School Wellness Program">
                     </div>
 

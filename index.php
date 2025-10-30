@@ -1,7 +1,7 @@
 <?php require 'includes/header.php'; ?>
 
 <section class="home-slider owl-carousel">
-    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/bg_1.jpg)"
+    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/banner-one.jpeg)"
         data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
@@ -19,7 +19,7 @@
         </div>
     </div>
 
-    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/bg_2.jpg)">
+    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/banner-two.jpg)">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
@@ -92,7 +92,7 @@
                     <div class="text-center">
                         <h3 class="mb-4">Get Your Free Counselling Session Now</h3>
                     </div>
-                    <form method="POST" action="code/book_appointment.php" class="appointment-form"
+                    <form method="POST" action="/theowlishmind/code/book_appointment" class="appointment-form"
                         id="bookappointment">
                         <div class="row">
                             <div class="col-md-12 col-lg-6 col-xl-4">
@@ -143,7 +143,7 @@
                                         <div class="icon">
                                             <span class="ion-md-calendar"></span>
                                         </div>
-                                        <input type="text" name="date" id="date" placeholder="yyyy-mm-dd"
+                                        <input type="text" name="date" id="date"
                                             class="form-control appointment_date" required />
                                     </div>
                                 </div>
@@ -161,7 +161,7 @@
                 <div class="consultation w-100 text-center px-4 px-md-5">
                     <h3 class="mb-4">About A Counsellor</h3>
                     <p>A small river named Duden flows by their place and supplies</p>
-                    <a href="/theowlishmind/pages/about" class="btn-custom">Meet our Counsellor</a>
+                    <a href="#counsellors" class="btn-custom">Meet our Counsellor</a>
                 </div>
             </div>
         </div>
@@ -290,7 +290,7 @@
     </div>
 </section>
 
-<section class="ftco-section intro" style="background-image: url(/theowlishmind/assets/images/bg_3.jpg)"
+<section class="ftco-section intro" style="background-image: url(/theowlishmind/assets/images/take-care-our-patients.jpeg)"
     data-stellar-background-ratio="0.5">
     <div class="container">
         <div class="row">
@@ -474,7 +474,7 @@
                 </p>
             </div>
         </div>
-        <div class="row justify-content-center">
+        <div class="row justify-content-center" id="counsellors">
 
             <!-- Counsellor 1 -->
             <div class="col-md-6 col-lg-4 ftco-animate">
@@ -718,7 +718,7 @@
     </div>
 </section>
 
-<section class="ftco-intro" style="background-image: url(/theowlishmind/assets/images/bg_3.jpg)"
+<section class="ftco-intro" style="background-image: url(/theowlishmind/assets/images/book_appoinment.jpg)"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">

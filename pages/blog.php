@@ -1,6 +1,6 @@
 <?php require '../includes/header.php'; ?>
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/bg_1.jpg');"
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common_banner.png');"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.php" class="block-20 d-flex align-items-end justify-content-end"
+                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_1.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
@@ -41,7 +41,7 @@
                         </p>
                         <div class="d-flex align-items-center mt-4">
                             <p class="mb-0">
-                                <a href="#" class="btn btn-primary">
+                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.php" class="block-20 d-flex align-items-end justify-content-end"
+                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_2.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
@@ -71,7 +71,7 @@
                         </p>
                         <div class="d-flex align-items-center mt-4">
                             <p class="mb-0">
-                                <a href="#" class="btn btn-primary">
+                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
@@ -85,7 +85,7 @@
             </div>
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.php" class="block-20 d-flex align-items-end justify-content-end"
+                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_3.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
@@ -101,7 +101,7 @@
                         </p>
                         <div class="d-flex align-items-center mt-4">
                             <p class="mb-0">
-                                <a href="#" class="btn btn-primary">
+                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
@@ -116,7 +116,7 @@
 
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.php" class="block-20 d-flex align-items-end justify-content-end"
+                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_4.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
@@ -132,7 +132,7 @@
                         </p>
                         <div class="d-flex align-items-center mt-4">
                             <p class="mb-0">
-                                <a href="#" class="btn btn-primary">
+                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
@@ -146,7 +146,7 @@
             </div>
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.php" class="block-20 d-flex align-items-end justify-content-end"
+                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_5.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
@@ -162,7 +162,7 @@
                         </p>
                         <div class="d-flex align-items-center mt-4">
                             <p class="mb-0">
-                                <a href="#" class="btn btn-primary">
+                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
@@ -176,7 +176,7 @@
             </div>
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.php" class="block-20 d-flex align-items-end justify-content-end"
+                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_6.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
@@ -194,7 +194,7 @@
                         </p>
                         <div class="d-flex align-items-center mt-4">
                             <p class="mb-0">
-                                <a href="#" class="btn btn-primary">
+                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
                             </p>
@@ -379,17 +379,17 @@
 </section>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    const items = document.querySelectorAll('.faq-item');
+    document.addEventListener('DOMContentLoaded', function() {
+        const items = document.querySelectorAll('.faq-item');
 
-    items.forEach(item => {
-        const question = item.querySelector('.faq-question');
-        question.addEventListener('click', () => {
-            items.forEach(i => i !== item && i.classList.remove('active'));
-            item.classList.toggle('active');
+        items.forEach(item => {
+            const question = item.querySelector('.faq-question');
+            question.addEventListener('click', () => {
+                items.forEach(i => i !== item && i.classList.remove('active'));
+                item.classList.toggle('active');
+            });
         });
     });
-});
 </script>
 
 <?php require '../includes/footer.php'; ?>

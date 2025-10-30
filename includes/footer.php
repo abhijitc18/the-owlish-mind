@@ -172,19 +172,14 @@
             </div>
             <div class="row">
                 <div class="col-md-12 text-center">
-
-                    <!-- <p class="text-center text-md-end text-xl-start">
-                        All Rights Reserved
-                    </p> -->
-
                     <p class="mb-0 footer-line" style="color: #ffffff;">
                         Copyright &copy;
                         <script>
                             document.write(new Date().getFullYear());
                         </script> All rights reserved | Design and Developed by
                         <a href="https://aliveantechsolutions.com" target="_blank">
-                            <span style="color:#4A68A9">A</span><span style="color:#FF7722">T</span><span
-                                style="color:#4A68A9">S</span>
+                            <span style="color:#4A68A9">Alivean</span><span style="color:#FF7722">Tech</span><span
+                                style="color:#4A68A9">Solutions</span>
                         </a>
                     </p>
                 </div>

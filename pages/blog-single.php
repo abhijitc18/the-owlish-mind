@@ -1,6 +1,6 @@
-<?php require 'includes/header.php'; ?>
+<?php require '../includes/header.php'; ?>
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/bg_1.jpg')"
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common_banner.png')"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
@@ -69,16 +69,16 @@
                             style="background-image: url(/theowlishmind/assets/images/image_1.jpg)"></a>
                         <div class="text">
                             <h3 class="heading">
-                                <a href="#">
+                                <a href="/theowlishmind/pages/blog-single">
                                     Even the all-powerful Pointing has no control about the blind texts
                                 </a>
                             </h3>
                             <div class="meta">
                                 <div>
-                                    <a href="#"><span class="icon-calendar"></span> Oct. 04, 2018</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-calendar"></span> Oct. 04, 2018</a>
                                 </div>
                                 <div>
-                                    <a href="#"><span class="icon-person"></span> Admin</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-person"></span> Admin</a>
                                 </div>
                             </div>
                         </div>
@@ -88,16 +88,16 @@
                             style="background-image: url(/theowlishmind/assets/images/image_2.jpg)"></a>
                         <div class="text">
                             <h3 class="heading">
-                                <a href="#">
+                                <a href="/theowlishmind/pages/blog-single">
                                     Even the all-powerful Pointing has no control about the blind texts
                                 </a>
                             </h3>
                             <div class="meta">
                                 <div>
-                                    <a href="#"><span class="icon-calendar"></span> Oct. 04, 2018</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-calendar"></span> Oct. 04, 2018</a>
                                 </div>
                                 <div>
-                                    <a href="#"><span class="icon-person"></span> Admin</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-person"></span> Admin</a>
                                 </div>
                             </div>
                         </div>
@@ -107,16 +107,16 @@
                             style="background-image: url(/theowlishmind/assets/images/image_3.jpg)"></a>
                         <div class="text">
                             <h3 class="heading">
-                                <a href="#">
+                                <a href="/theowlishmind/pages/blog-single">
                                     Even the all-powerful Pointing has no control about the blind texts
                                 </a>
                             </h3>
                             <div class="meta">
                                 <div>
-                                    <a href="#"><span class="icon-calendar"></span> Oct. 04, 2018</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-calendar"></span> Oct. 04, 2018</a>
                                 </div>
                                 <div>
-                                    <a href="#"><span class="icon-person"></span> Admin</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-person"></span> Admin</a>
                                 </div>
                             </div>
                         </div>
@@ -126,16 +126,16 @@
                             style="background-image: url(/theowlishmind/assets/images/image_2.jpg)"></a>
                         <div class="text">
                             <h3 class="heading">
-                                <a href="#">
+                                <a href="/theowlishmind/pages/blog-single">
                                     Even the all-powerful Pointing has no control about the blind texts
                                 </a>
                             </h3>
                             <div class="meta">
                                 <div>
-                                    <a href="#"><span class="icon-calendar"></span> Oct. 04, 2018</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-calendar"></span> Oct. 04, 2018</a>
                                 </div>
                                 <div>
-                                    <a href="#"><span class="icon-person"></span> Admin</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-person"></span> Admin</a>
                                 </div>
                             </div>
                         </div>
@@ -145,16 +145,16 @@
                             style="background-image: url(/theowlishmind/assets/images/image_3.jpg)"></a>
                         <div class="text">
                             <h3 class="heading">
-                                <a href="#">
+                                <a href="/theowlishmind/pages/blog-single">
                                     Even the all-powerful Pointing has no control about the blind texts
                                 </a>
                             </h3>
                             <div class="meta">
                                 <div>
-                                    <a href="#"><span class="icon-calendar"></span> Oct. 04, 2018</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-calendar"></span> Oct. 04, 2018</a>
                                 </div>
                                 <div>
-                                    <a href="#"><span class="icon-person"></span> Admin</a>
+                                    <a href="/theowlishmind/pages/blog-single"><span class="icon-person"></span> Admin</a>
                                 </div>
                             </div>
                         </div>
@@ -166,4 +166,4 @@
     </div>
 </section>
 
-<?php require 'includes/footer.php'; ?>
+<?php require '../includes/footer.php'; ?>

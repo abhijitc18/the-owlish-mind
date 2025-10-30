@@ -255,8 +255,9 @@ AOS.init({
   });
 
   $(".appointment_date").datepicker({
-    format: "m/d/yyyy",
+    format: "yyyy-mm-dd",
     autoclose: true,
+    todayHighlight: true,
   });
 
   $(".appointment_time").timepicker();
