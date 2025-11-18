@@ -6,14 +6,14 @@
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
             <div class="col-md-9 ftco-animate text-center">
-                <h1 class="mb-2 bread">Blog</h1>
+                <h1 class="mb-2 bread">Blog & FAQ's</h1>
                 <p class="breadcrumbs">
                     <span class="mr-2">
-                        <a href="/theowlishmind/index.php">Home
+                        <a href="/theowlishmind/index">Home
                             <i class="ion-ios-arrow-forward"></i>
                         </a>
                     </span>
-                    <span>Blog <i class="ion-ios-arrow-forward"></i></span>
+                    <span>Blog & FAQ's <i class="ion-ios-arrow-forward"></i></span>
                 </p>
             </div>
         </div>
@@ -22,99 +22,109 @@
 
 <section class="ftco-service-custom bg-light">
     <div class="container">
+        <h2 class="section-title" style="text-align: center; margin-bottom: 40px;">Blog's</h2>
         <div class="row">
+
+            <!-- Bolg One -->
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_1.jpg');">
                         <div class="meta-date text-center p-2">
-                            <span class="day">18</span>
-                            <span class="mos">September</span>
-                            <span class="yr">2019</span>
+                            <span class="day">20</span>
+                            <span class="mos">June</span>
+                            <span class="yr">2025</span>
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Scary Thing That You Don’t Get Enough Sleep</a></h3>
+                        <h3 class="heading">
+                            <a href="/theowlishmind/pages/blog-one">Therapy for Overall Wellbeing: Building Emotional Fitness for Everyday Life</a>
+                        </h3>
                         <p>
-                            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                            there live the blind texts.
+                            Think of it less as a rescue mission and more as regular maintenance. Like exercise strengthens your body, therapy strengthens your inner world.
                         </p>
                         <div class="d-flex align-items-center mt-4">
-                            <p class="mb-0">
-                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
+                            <!-- <p class="mb-0">
+                                <a href="/theowlishmind/pages/blog-one" class="mr-2">Admin</a>
+                                <a href="/theowlishmind/pages/blog-one" class="meta-chat"><span class="icon-chat"></span> 3</a>
+                            </p> -->
+                            <p class="ml-auto mb-0">
+                                <a href="/theowlishmind/pages/blog-one" class="btn btn-primary">
                                     Read More <span class="ion-ios-arrow-round-forward"></span>
                                 </a>
-                            </p>
-                            <p class="ml-auto mb-0">
-                                <a href="#" class="mr-2">Admin</a>
-                                <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <div class="blog-entry">
-                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_2.jpg');">
-                        <div class="meta-date text-center p-2">
-                            <span class="day">18</span>
-                            <span class="mos">September</span>
-                            <span class="yr">2019</span>
-                        </div>
-                    </a>
-                    <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Scary Thing That You Don’t Get Enough Sleep</a></h3>
-                        <p>
-                            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                            there live the blind texts.
-                        </p>
-                        <div class="d-flex align-items-center mt-4">
-                            <p class="mb-0">
-                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
-                                    Read More <span class="ion-ios-arrow-round-forward"></span>
-                                </a>
-                            </p>
-                            <p class="ml-auto mb-0">
-                                <a href="#" class="mr-2">Admin</a>
-                                <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <div class="blog-entry">
-                    <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_3.jpg');">
-                        <div class="meta-date text-center p-2">
-                            <span class="day">18</span>
-                            <span class="mos">September</span>
-                            <span class="yr">2019</span>
-                        </div>
-                    </a>
-                    <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Scary Thing That You Don’t Get Enough Sleep</a></h3>
-                        <p>
-                            Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                            there live the blind texts.
-                        </p>
-                        <div class="d-flex align-items-center mt-4">
-                            <p class="mb-0">
-                                <a href="/theowlishmind/pages/blog-single" class="btn btn-primary">
-                                    Read More <span class="ion-ios-arrow-round-forward"></span>
-                                </a>
-                            </p>
-                            <p class="ml-auto mb-0">
-                                <a href="#" class="mr-2">Admin</a>
-                                <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
 
+            <!-- Bolg Two -->
             <div class="col-md-4 ftco-animate">
+                <div class="blog-entry">
+                    <a href="/theowlishmind/pages/blog-two" class="block-20 d-flex align-items-end justify-content-end"
+                        style="background-image: url('/theowlishmind/assets/images/image_2.jpg');">
+                        <div class="meta-date text-center p-2">
+                            <span class="day">18</span>
+                            <span class="mos">Sept</span>
+                            <span class="yr">2025</span>
+                        </div>
+                    </a>
+                    <div class="text bg-white p-4">
+                        <h3 class="heading">
+                            <a href="/theowlishmind/pages/blog-two">Grief in a Breakup: When Love Becomes Loss</a>
+                        </h3>
+                        <p>
+                            Most people don’t realize how much grief hides behind the language of endings. You don’t just lose a partner; you lose routines, shared jokes, small rituals, the version of yourself that existed in that relationship.
+                        </p>
+                        <div class="d-flex align-items-center mt-4">
+                            <!-- <p class="mb-0">
+                                <a href="#" class="mr-2">Admin</a>
+                                <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+                            </p> -->
+                            <p class="ml-auto mb-0">
+                                <a href="/theowlishmind/pages/blog-two" class="btn btn-primary">
+                                    Read More <span class="ion-ios-arrow-round-forward"></span>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bolg Three -->
+            <div class="col-md-4 ftco-animate">
+                <div class="blog-entry">
+                    <a href="/theowlishmind/pages/blog-three" class="block-20 d-flex align-items-end justify-content-end"
+                        style="background-image: url('/theowlishmind/assets/images/image_3.jpg');">
+                        <div class="meta-date text-center p-2">
+                            <span class="day">01</span>
+                            <span class="mos">Nov</span>
+                            <span class="yr">2025</span>
+                        </div>
+                    </a>
+                    <div class="text bg-white p-4">
+                        <h3 class="heading">
+                            <a href="/theowlishmind/pages/blog-three">Overstimulation by Smartphones and Cognitive Impairment: The Quiet Decline of Attention</a>
+                        </h3>
+                        <p>
+                            We reach for our phones in line at the grocery store, in moments of silence, even between thoughts. It’s almost instinctive — a reflex built on microbursts of stimulation.
+                        </p>
+                        <div class="d-flex align-items-center mt-4">
+                            <!-- <p class="mb-0">
+                                <a href="#" class="mr-2">Admin</a>
+                                <a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+                            </p> -->
+                            <p class="ml-auto mb-0">
+                                <a href="/theowlishmind/pages/blog-three" class="btn btn-primary">
+                                    Read More <span class="ion-ios-arrow-round-forward"></span>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
                         style="background-image: url('/theowlishmind/assets/images/image_4.jpg');">
@@ -205,7 +215,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

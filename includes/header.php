@@ -7,19 +7,48 @@ $current_page = basename($_SERVER['PHP_SELF']);
 <html lang="en">
 
 <head>
-    <title>Denstista -</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
+    <title>The Owlish Mind – Professional Psychological Counselling & Mental Wellness Services</title>
     <meta name="language" content="English" />
-    <meta name="title" content="The Owlish Mind" />
-    <meta name="url" content="https://owlishmind.com" />
-    <meta name="identifier-URL" content="https://owlishmind.com" />
-    <meta name="description"
-        content="Join group therapy at The Owlish Mind to heal from social anxiety, grief, & stress. Build resilience in Maharashtra. Book now!">
-    <meta name="keywords"
-        content="remediation services, cognitive training, social skills, learning challenges, The Owlish Mind, Southern Maharashtra, child therapy">
-    <meta name="author" content="The Owlish Mind" />
+    <meta name="title" content="The Owlish Mind – Professional Psychological Counselling & Mental Wellness Services">
+    <meta name="description" content="The Owlish Mind (est. 2019) offers confidential, evidence-based psychological services including psychotherapy, psycho-diagnostic assessments, career counselling, and student & corporate mental wellness programs.">
+    <meta name="keywords" content="The Owlish Mind, psychological counselling, psychotherapy, mental health support, psycho-diagnostic assessment, career counselling, student counselling, corporate wellness, behaviour modification, cognitive development">
+    <meta name="author" content="The Owlish Mind">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Social Media Profile Links -->
+    <link rel="me" href="https://www.youtube.com/@theowlishmind">
+    <link rel="me" href="https://www.facebook.com/theowlishmind">
+    <link rel="me" href="https://www.instagram.com/owlishmind">
+
+    <meta property="og:title" content="The Owlish Mind – Professional Psychological Counselling & Mental Wellness Services">
+    <meta property="og:description" content="Confidential, evidence-based psychological counselling, assessments, career guidance, and wellness programs for students, adults & corporates.">
+    <meta property="og:url" content="https://theowlishmind.com">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/path-to-your-site-preview-image.jpg">
+
+    <!-- Open Graph Social Profiles -->
+    <meta property="og:social:youtube" content="https://www.youtube.com/@theowlishmind">
+    <meta property="og:social:facebook" content="https://www.facebook.com/theowlishmind">
+    <meta property="og:social:instagram" content="https://www.instagram.com/owlishmind">
+
+    <!-- Organization Social Profiles Schema -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "The Owlish Mind",
+            "url": "https://theowlishmind.com",
+            "sameAs": [
+                "https://www.youtube.com/@theowlishmind",
+                "https://www.facebook.com/theowlishmind",
+                "https://www.instagram.com/owlishmind"
+            ]
+        }
+    </script>
 
     <!-- Favicon -->
     <link href="/theowlishmind/assets/images/Owlishmind-fav.png" rel="icon" />
@@ -29,18 +58,13 @@ $current_page = basename($_SERVER['PHP_SELF']);
 
     <link rel="stylesheet" href="/theowlishmind/assets/css/open-iconic-bootstrap.min.css" />
     <link rel="stylesheet" href="/theowlishmind/assets/css/animate.css" />
-
     <link rel="stylesheet" href="/theowlishmind/assets/css/owl.carousel.min.css" />
     <link rel="stylesheet" href="/theowlishmind/assets/css/owl.theme.default.min.css" />
     <link rel="stylesheet" href="/theowlishmind/assets/css/magnific-popup.css" />
-
     <link rel="stylesheet" href="/theowlishmind/assets/css/aos.css" />
-
     <link rel="stylesheet" href="/theowlishmind/assets/css/ionicons.min.css" />
-
     <link rel="stylesheet" href="/theowlishmind/assets/css/bootstrap-datepicker.css" />
     <link rel="stylesheet" href="/theowlishmind/assets/css/jquery.timepicker.css" />
-
     <link rel="stylesheet" href="/theowlishmind/assets/css/flaticon.css" />
     <link rel="stylesheet" href="/theowlishmind/assets/css/icomoon.css" />
     <link rel="stylesheet" href="/theowlishmind/assets/css/style.css" />
@@ -76,7 +100,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     </div>
                     <div class="text pl-3 pl-md-3">
                         <p class="hr">
-                            <span>Open Hours</span>
+                            <span>Oppointments Only</span>
                         </p>
                         <p class="time">
                             <span>Mon - Sat:</span> <span>10:00am - 6:00pm</span> Sun: Closed
@@ -100,17 +124,11 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     <li class="nav-item <?php echo ($current_page === 'about.php') ? 'active' : ''; ?>">
                         <a href="/theowlishmind/pages/about" class="nav-link">About</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a href="doctor" class="nav-link">Doctor</a>
-                    </li> -->
                     <li class="nav-item <?php echo ($current_page === 'services.php') ? 'active' : ''; ?>">
                         <a href="/theowlishmind/pages/services" class="nav-link">Services</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a href="pricing" class="nav-link">Pricing</a>
-                    </li> -->
                     <li class="nav-item <?php echo ($current_page === 'blog.php') ? 'active' : ''; ?>">
-                        <a href="/theowlishmind/pages/blog" class="nav-link">Blog</a>
+                        <a href="/theowlishmind/pages/blog" class="nav-link">Blog & FAQ's</a>
                     </li>
                     <li class="nav-item <?php echo ($current_page === 'contact.php') ? 'active' : ''; ?>">
                         <a href="/theowlishmind/pages/contact" class="nav-link">Contact</a>

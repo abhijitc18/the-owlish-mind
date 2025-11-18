@@ -10,17 +10,17 @@
                         </p>
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2">
                             <li class="ftco-animate">
-                                <a href="#">
+                                <a href="https://www.youtube.com/@theowlishmind">
                                     <span class="icon-youtube"></span>
                                 </a>
                             </li>
                             <li class="ftco-animate">
-                                <a href="#">
+                                <a href="https://www.facebook.com/theowlishmind">
                                     <span class="icon-facebook"></span>
                                 </a>
                             </li>
                             <li class="ftco-animate">
-                                <a href="#">
+                                <a href="https://www.instagram.com/owlishmind/">
                                     <span class="icon-instagram"></span>
                                 </a>
                             </li>
@@ -32,7 +32,7 @@
                         <h2 class="ftco-heading-2">Quick Links</h2>
                         <ul class="list-unstyled">
                             <li>
-                                <a href="index">
+                                <a href="/theowlishmind/index">
                                     <span class="ion-ios-arrow-round-forward mr-2"></span>Home
                                 </a>
                             </li>
@@ -68,13 +68,13 @@
                                 <li>
                                     <a href="https://maps.app.goo.gl/1esKH3f39TAbRdBS6">
                                         <span class="icon icon-map-marker"></span>
-                                        <span class="text">100 ft circle, Kolhapur Rd, Sangli.</span>
+                                        <span class="text">T - 2, Third floor, Regular Corner, 100ft circle, Kolhapur Road, Sangli.</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="tel:7385507338">
                                         <span class="icon icon-phone"></span>
-                                        <span class="text">+91 7385507338</span>
+                                        <span class="text">+917385507338</span>
                                     </a>
                                 </li>
                                 <li>

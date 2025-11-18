@@ -9,7 +9,7 @@
                 <h1 class="mb-2 bread">Contact Us</h1>
                 <p class="breadcrumbs">
                     <span class="mr-2">
-                        <a href="/theowlishmind/index.php">Home
+                        <a href="/theowlishmind/index">Home
                             <i class="ion-ios-arrow-forward"></i>
                         </a>
                     </span>
@@ -84,7 +84,8 @@
                 <div class="bg-light d-flex align-self-stretch box p-4">
                     <p>
                         <span>Phone:</span>
-                        <a href="tel:7385507338">+91 7385507338</a>
+                        <a href="tel:7385507338">+91 7385507338</a> <br>
+                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="tel:8482982602">+91 8482982602</a>
                     </p>
                 </div>
             </div>

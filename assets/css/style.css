@@ -12191,14 +12191,14 @@ h5,
 
 .owl-carousel.home-slider .slider-item .slider-text h1 {
   font-size: 50px;
-  color: #000000;
+  color: #fff;
   line-height: 1.2;
-  font-weight: 300;
+  font-weight: 700;
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h1 span {
   display: block;
-  color: #000000;
+  color: #fff;
 }
 
 @media (max-width: 991.98px) {
@@ -13665,6 +13665,10 @@ textarea.form-control {
   border-radius: 0px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
+}
+
+select.form-control option {
+  background: #24a1cd;
 }
 
 .appointment-form .form-control::-webkit-input-placeholder {
