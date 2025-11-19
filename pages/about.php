@@ -25,7 +25,7 @@
     <div class="container">
         <div class="row no-gutters">
             <div class="col-md-5 p-md-5 img img-2 mt-5 mt-md-0"
-                style="background-image: url(/theowlishmind/assets/images/Welcome-To-Owlish-Mind.png);">
+                style="background-image: url(/theowlishmind/assets/images/The-Owlish-Mind.png);">
             </div>
             <div class="col-md-7 wrap-about py-4 py-md-5 ftco-animate">
                 <div class="heading-section mb-5">

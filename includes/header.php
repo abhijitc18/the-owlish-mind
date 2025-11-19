@@ -95,15 +95,12 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     </div>
                 </div>
                 <div class="col-md-4 order-md-3 d-flex topper mb-md-0 align-items-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span class="icon-paper-plane"></span>
-                    </div>
-                    <div class="text pl-3 pl-md-3">
-                        <p class="hr">
+                    <div class="text pl-3 pl-md-3 text-center">
+                        <p class="hr mb-2">
                             <span>Oppointments Only</span>
                         </p>
-                        <p class="time">
-                            <span>Mon - Sat:</span> <span>10:00am - 6:00pm</span> Sun: Closed
+                        <p class="mb-0">
+                            <a href="/theowlishmind/index#bookappointment" class="btn btn-secondary px-3 scroll-link">Book Appoinment Now</a>
                         </p>
                     </div>
                 </div>
