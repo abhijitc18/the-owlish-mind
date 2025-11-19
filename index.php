@@ -1,36 +1,36 @@
 <?php require 'includes/header.php'; ?>
 
 <section class="home-slider owl-carousel">
-    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/banner-one.jpeg)"
+    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/banner01.jpg)"
         data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
                 <div class="col-md-6 text ftco-animate">
-                    <h1 class="mb-4">Helping Your <span>Stay Happy One</span></h1>
+                    <h1 class="mb-4">Move Forward with<span>Emotional Wellness</span></h1>
                     <h3 class="subheading">
-                        Everyday We Bring Hope and Smile to the Patient We Serve
+                        Compassionate, confidential, and professional counselling for every stage of life.
                     </h3>
-                    <p>
+                    <!-- <p>
                         <a href="#" class="btn btn-secondary px-4 py-3 mt-3">View our works</a>
-                    </p>
+                    </p> -->
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/banner-two.jpg)">
+    <div class="slider-item" style="background-image: url(/theowlishmind/assets/images/banner02.png)">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
                 <div class="col-md-6 text ftco-animate">
-                    <h1 class="mb-4">Smile Makes <br />A Lasting Impression</h1>
+                    <h1 class="mb-4">Helping You Heal<br><span>One Step at a Time</span></h1>
                     <h3 class="subheading">
-                        Your Health is Our Top Priority with Comprehensive, Affordable medical.
+                        Personalized therapy and psychological care to help you feel balanced, calm, and empowered.
                     </h3>
-                    <p>
+                    <!-- <p>
                         <a href="#" class="btn btn-secondary px-4 py-3 mt-3">View our works</a>
-                    </p>
+                    </p> -->
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
     <div class="container">
         <div class="row no-gutters">
             <div class="col-md-5 p-md-5 img img-2 mt-5 mt-md-0"
-                style="background-image: url(/theowlishmind/assets/images/Welcome-To-Owlish-Mind.png)">
+                style="background-image: url(/theowlishmind/assets/images/The-Owlish-Mind.png)">
             </div>
             <div class="col-md-7 wrap-about py-4 py-md-5 ftco-animate">
                 <div class="heading-section mb-5">
@@ -561,10 +561,10 @@
                                 </span>
                                 <p>
                                     The counselling sessions helped me manage stress and anxiety. I feel more confident
-                                    and at peace now. Highly recommended. Thank you so much.
+                                    and at peace now. Thank you so much.
                                 </p>
-                                <p class="name">Amit Jadhav</p>
-                                <span class="position">Businessman</span>
+                                <p class="name">anonymous</p>
+                                <!-- <span class="position">Businessman</span> -->
                             </div>
                         </div>
                     </div>
@@ -582,8 +582,8 @@
                                     Professional and compassionate service! The therapy sessions really helped me
                                     overcome my fears and improve my mental well-being.
                                 </p>
-                                <p class="name">Snehal Patil</p>
-                                <span class="position">Banker</span>
+                                <p class="name">anonymous</p>
+                                <!-- <span class="position">Banker</span> -->
                             </div>
                         </div>
                     </div>
@@ -601,8 +601,8 @@
                                     I struggled with depression, but after regular counselling, I feel much better.
                                     Thank you for guiding me through tough times!.
                                 </p>
-                                <p class="name">Rohit Deshmukh</p>
-                                <span class="position">Marketing Manager</span>
+                                <p class="name">anonymous</p>
+                                <!-- <span class="position">Marketing Manager</span> -->
                             </div>
                         </div>
                     </div>
@@ -620,8 +620,8 @@
                                     Best counselling center! The sessions were insightful and truly life-changing. I
                                     learned how to handle stress and stay positive.
                                 </p>
-                                <p class="name">Swapnali Kulkarni</p>
-                                <span class="position">Housewife</span>
+                                <p class="name">anonymous</p>
+                                <!-- <span class="position">Housewife</span> -->
                             </div>
                         </div>
                     </div>
@@ -639,65 +639,8 @@
                                     The psychologist was patient and understanding. Their advice helped me build better
                                     relationships and self-confidence.
                                 </p>
-                                <p class="name">Pooja Bhosale</p>
-                                <span class="position">Tuition Teacher</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="testimony-wrap d-flex">
-                            <div class="user-img"
-                                style="background-image: url(/theowlishmind/assets/images/Testimonial_woman.jpeg)">
-                            </div>
-                            <div class="text pl-4 bg-light">
-                                <span class="quote d-flex align-items-center justify-content-center">
-                                    <i class="icon-quote-left"></i>
-                                </span>
-                                <p>
-                                    I was skeptical at first, but the therapy really worked wonders for me. The support
-                                    and guidance were invaluable! Thank you.
-                                </p>
-                                <p class="name">Neha Gaikwad</p>
-                                <span class="position">Student</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="testimony-wrap d-flex">
-                            <div class="user-img"
-                                style="background-image: url(/theowlishmind/assets/images/Testimonial_man.jpg)">
-                            </div>
-                            <div class="text pl-4 bg-light">
-                                <span class="quote d-flex align-items-center justify-content-center">
-                                    <i class="icon-quote-left"></i>
-                                </span>
-                                <p>
-                                    Great experience! The assessment was detailed, and the counsellor helped me set
-                                    clear goals for my mental health journey.
-                                </p>
-                                <p class="name">Omkar Pawar</p>
-                                <span class="position">Student</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="testimony-wrap d-flex">
-                            <div class="user-img"
-                                style="background-image: url(/theowlishmind/assets/images/Testimonial_woman.jpeg)">
-                            </div>
-                            <div class="text pl-4 bg-light">
-                                <span class="quote d-flex align-items-center justify-content-center">
-                                    <i class="icon-quote-left"></i>
-                                </span>
-                                <p>
-                                    The friendly environment and expert guidance made a huge difference in my life.
-                                    Highly grateful for the support! Thank you so much.
-                                </p>
-                                <p class="name">Mrunal Chavan</p>
-                                <span class="position">Student</span>
+                                <p class="name">anonymous</p>
+                                <!-- <span class="position">Tuition Teacher</span> -->
                             </div>
                         </div>
                     </div>

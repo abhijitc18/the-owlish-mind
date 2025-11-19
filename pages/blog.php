@@ -29,7 +29,7 @@
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_1.jpg');">
+                        style="background-image: url('/theowlishmind/assets/images/blog-01.gif');">
                         <div class="meta-date text-center p-2">
                             <span class="day">20</span>
                             <span class="mos">June</span>
@@ -62,7 +62,7 @@
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-two" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_2.jpg');">
+                        style="background-image: url('/theowlishmind/assets/images/blog-02.gif');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
                             <span class="mos">Sept</span>
@@ -95,7 +95,7 @@
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-three" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_3.jpg');">
+                        style="background-image: url('/theowlishmind/assets/images/blog-03.gif');">
                         <div class="meta-date text-center p-2">
                             <span class="day">01</span>
                             <span class="mos">Nov</span>

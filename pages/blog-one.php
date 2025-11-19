@@ -41,7 +41,7 @@
                     Think of it less as a rescue mission and more as regular maintenance. Like exercise strengthens your body, therapy strengthens your inner world. You don’t go to the gym only when you’re sick; you go because movement keeps you strong. Therapy works the same way — it builds the muscles of self-awareness, emotional balance, and resilience that carry you through life’s uncertainty.
                 </p>
                 <p>
-                    <img src="/theowlishmind/assets/images/image_2.jpg" alt="" class="img-fluid" />
+                    <img src="/theowlishmind/assets/images/blog-01.gif" alt="" class="img-fluid" />
                 </p>
                 <h5>
                     Therapy Is Not a Last Resort — It’s a Form of Self-Care
@@ -105,7 +105,7 @@
                     <h3>Recent Articles</h3>
                     <div class="block-21 mb-4 d-flex">
                         <a href="/theowlishmind/pages/blog-two" class="blog-img mr-4"
-                            style="background-image: url(/theowlishmind/assets/images/image_1.jpg)"></a>
+                            style="background-image: url(/theowlishmind/assets/images/blog-02.gif)"></a>
                         <div class="text">
                             <h3 class="heading">
                                 <a href="/theowlishmind/pages/blog-two">
@@ -127,7 +127,7 @@
 
                     <div class="block-21 mb-4 d-flex">
                         <a href="/theowlishmind/pages/blog-three" class="blog-img mr-4"
-                            style="background-image: url(/theowlishmind/assets/images/image_2.jpg)"></a>
+                            style="background-image: url(/theowlishmind/assets/images/blog-03.gif)"></a>
                         <div class="text">
                             <h3 class="heading">
                                 <a href="/theowlishmind/pages/blog-three">

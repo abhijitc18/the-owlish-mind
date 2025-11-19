@@ -44,7 +44,7 @@
                     But part of it is cognitive — a byproduct of constant overstimulation.
                 </p>
                 <p>
-                    <img src="/theowlishmind/assets/images/image_2.jpg" alt="" class="img-fluid" />
+                    <img src="/theowlishmind/assets/images/blog-03.gif" alt="" class="img-fluid" />
                 </p>
                 <h5>
                     The Brain on Overload
@@ -103,7 +103,7 @@
                     <h3>Recent Articles</h3>
                     <div class="block-21 mb-4 d-flex">
                         <a href="/theowlishmind/pages/blog-one" class="blog-img mr-4"
-                            style="background-image: url(/theowlishmind/assets/images/image_1.jpg)"></a>
+                            style="background-image: url(/theowlishmind/assets/images/blog-01.gif)"></a>
                         <div class="text">
                             <h3 class="heading">
                                 <a href="/theowlishmind/pages/blog-one">
@@ -125,7 +125,7 @@
 
                     <div class="block-21 mb-4 d-flex">
                         <a href="/theowlishmind/pages/blog-two" class="blog-img mr-4"
-                            style="background-image: url(/theowlishmind/assets/images/image_1.jpg)"></a>
+                            style="background-image: url(/theowlishmind/assets/images/blog-02.gif)"></a>
                         <div class="text">
                             <h3 class="heading">
                                 <a href="/theowlishmind/pages/blog-two">
