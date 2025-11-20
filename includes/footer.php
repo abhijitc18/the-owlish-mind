@@ -5,8 +5,7 @@
                     <div class="ftco-footer-widget mb-2">
                         <h2 class="ftco-heading-2 logo">The Owlish Mind</h2>
                         <p>
-                            Empowering Minds, Healing Souls - Your Trusted Partner for Psychological Assessment &
-                            Counselling Services.
+                            Building a more psychologically aware, inclusive, and emotionally resilient India through trusted, ethical, and future-ready mental health services.
                         </p>
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2">
                             <li class="ftco-animate">
@@ -62,7 +61,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="ftco-footer-widget mb-5">
-                        <h2 class="ftco-heading-2">Have a Questions?</h2>
+                        <h2 class="ftco-heading-2">Contact Us</h2>
                         <div class="block-23 mb-3">
                             <ul>
                                 <li>
@@ -178,8 +177,7 @@
                             document.write(new Date().getFullYear());
                         </script> All rights reserved | Design and Developed by
                         <a href="https://aliveantechsolutions.com" target="_blank">
-                            <span style="color:#4A68A9">Alivean</span><span style="color:#FF7722">Tech</span><span
-                                style="color:#4A68A9">Solutions</span>
+                            <span style="color:#fff; font-weight: 500;">Alivean Tech Solutions</span>
                         </a>
                     </p>
                 </div>
@@ -214,6 +212,28 @@
     <script src="/theowlishmind/assets/js/jquery.validate.min.js" type="text/javascript"></script>
     <script src="/theowlishmind/assets/js/bookappointment.js" type="text/javascript"></script>
     <script src="/theowlishmind/assets/js/inquiry.js" type="text/javascript"></script>
+
+    <!-- Place the buttons here -->
+    <button id="goToTopBtn" class="btn btn-secondary go-to-top" title="Go to Top">↑</button>
+    <a href="https://wa.me/918482982602" target="_blank" class="whatsapp-btn" title="Chat on WhatsApp">
+        <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" style="width:48px;height:48px;">
+    </a>
+
+    <script>
+        const goToTopBtn = document.getElementById("goToTopBtn");
+
+        window.addEventListener("scroll", function() {
+            goToTopBtn.style.display = window.scrollY > 100 ? "block" : "none";
+        });
+
+        goToTopBtn.addEventListener("click", function() {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
+        });
+    </script>
+    <!-- End of buttons -->
     </body>
 
     </html>

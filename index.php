@@ -7,9 +7,9 @@
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
                 <div class="col-md-6 text ftco-animate">
-                    <h1 class="mb-4">Move Forward with<span>Emotional Wellness</span></h1>
+                    <h1 class="mb-4">Where your mind<span>feels understood</span></h1>
                     <h3 class="subheading">
-                        Compassionate, confidential, and professional counselling for every stage of life.
+                        The Owlish Mind – Psychological Assessment & Counselling Services.
                     </h3>
                     <!-- <p>
                         <a href="#" class="btn btn-secondary px-4 py-3 mt-3">View our works</a>
@@ -272,11 +272,11 @@
     </div>
 </section>
 
-<section class="ftco-section intro" style="background-image: url(/theowlishmind/assets/images/take-care-our-patients.jpeg)"
+<section class="ftco-section intro" style="background-image: url(/theowlishmind/assets/images/emotional-well-being.png)"
     data-stellar-background-ratio="0.5">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-7">
                 <h3 class="mb-4">
                     We’re committed to your emotional well-being.
                 </h3>
@@ -539,6 +539,7 @@
     </div>
 </section>
 
+<!-- Testimonials -->
 <section class="ftco-section testimony-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
@@ -560,8 +561,7 @@
                                     <i class="icon-quote-left"></i>
                                 </span>
                                 <p>
-                                    The counselling sessions helped me manage stress and anxiety. I feel more confident
-                                    and at peace now. Thank you so much.
+                                    My relationships have improved significantly. I used to struggle with accepting people as they are and often felt frustrated when my ideas were dismissed. Through therapy, I’ve learned to embrace differences, respond with greater understanding, and build healthier, more meaningful connections.
                                 </p>
                                 <p class="name">anonymous</p>
                                 <!-- <span class="position">Businessman</span> -->
@@ -579,8 +579,7 @@
                                     <i class="icon-quote-left"></i>
                                 </span>
                                 <p>
-                                    Professional and compassionate service! The therapy sessions really helped me
-                                    overcome my fears and improve my mental well-being.
+                                    I’ve learned powerful techniques for expressing gratitude, accepting situations, forgiving, and moving forward. These practices have helped me handle people more effectively and strengthened my confidence day by day.
                                 </p>
                                 <p class="name">anonymous</p>
                                 <!-- <span class="position">Banker</span> -->
@@ -598,8 +597,7 @@
                                     <i class="icon-quote-left"></i>
                                 </span>
                                 <p>
-                                    I struggled with depression, but after regular counselling, I feel much better.
-                                    Thank you for guiding me through tough times!.
+                                    थेरपीनंतर माझ्या आत्मविश्वासात खूप वाढ झाली आहे. आता मी माझं काम कोणत्याही अडथळ्याशिवाय करतो आणि आधीसारखे नकारात्मक विचार मनात येत नाहीत. मानसिक स्थिरता आणि भावनिक सुरक्षितता दोन्ही वाढल्या आहेत.
                                 </p>
                                 <p class="name">anonymous</p>
                                 <!-- <span class="position">Marketing Manager</span> -->
@@ -617,30 +615,10 @@
                                     <i class="icon-quote-left"></i>
                                 </span>
                                 <p>
-                                    Best counselling center! The sessions were insightful and truly life-changing. I
-                                    learned how to handle stress and stay positive.
+                                    I’ve learned the skill of compartmentalization—keeping stress from one area of life from affecting another. It has helped me let go more easily, stay balanced, and enjoy the little things without feeling overwhelmed.
                                 </p>
                                 <p class="name">anonymous</p>
                                 <!-- <span class="position">Housewife</span> -->
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="testimony-wrap d-flex">
-                            <div class="user-img"
-                                style="background-image: url(/theowlishmind/assets/images/Testimonial_woman.jpeg)">
-                            </div>
-                            <div class="text pl-4 bg-light">
-                                <span class="quote d-flex align-items-center justify-content-center">
-                                    <i class="icon-quote-left"></i>
-                                </span>
-                                <p>
-                                    The psychologist was patient and understanding. Their advice helped me build better
-                                    relationships and self-confidence.
-                                </p>
-                                <p class="name">anonymous</p>
-                                <!-- <span class="position">Tuition Teacher</span> -->
                             </div>
                         </div>
                     </div>
@@ -650,16 +628,15 @@
     </div>
 </section>
 
-<section class="ftco-intro" style="background-image: url(/theowlishmind/assets/images/book_appoinment.jpg)"
-    data-stellar-background-ratio="0.5">
+<!-- Get First Counselling -->
+<section class="ftco-intro" style="background-image: url(/theowlishmind/assets/images/book-appoinment.png)" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-9">
-                <h2>Get Your First counselling Session Now</h2>
+                <h2>Get Your First Counselling Session Now</h2>
                 <p class="mb-0">
-                    Empowering Minds, Healing Souls - Your Trusted Partner for Psychological Assessment &
-                    Counselling Services.
+                    Empowering Minds, Healing Souls - Your Trusted Partner for Psychological Assessment & Counselling Services.
                 </p>
                 <p></p>
             </div>
@@ -773,6 +750,7 @@
     </div>
 </section> -->
 
+<!-- Blog -->
 <section class="ftco-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
@@ -787,7 +765,7 @@
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-single" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_1.jpg');">
+                        style="background-image: url('/theowlishmind/assets/images/blog-01.gif');">
                         <div class="meta-date text-center p-2">
                             <span class="day">20</span>
                             <span class="mos">June</span>
@@ -820,7 +798,7 @@
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-two" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_2.jpg');">
+                        style="background-image: url('/theowlishmind/assets/images/blog-02.gif');">
                         <div class="meta-date text-center p-2">
                             <span class="day">18</span>
                             <span class="mos">Sept</span>
@@ -853,7 +831,7 @@
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry">
                     <a href="/theowlishmind/pages/blog-three" class="block-20 d-flex align-items-end justify-content-end"
-                        style="background-image: url('/theowlishmind/assets/images/image_3.jpg');">
+                        style="background-image: url('/theowlishmind/assets/images/blog-03.gif');">
                         <div class="meta-date text-center p-2">
                             <span class="day">01</span>
                             <span class="mos">Nov</span>

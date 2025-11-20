@@ -51,7 +51,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     </script>
 
     <!-- Favicon -->
-    <link href="/theowlishmind/assets/images/Owlishmind-fav.png" rel="icon" />
+    <link href="/theowlishmind/assets/images/fav-icon.png" rel="icon" />
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
@@ -71,13 +71,12 @@ $current_page = basename($_SERVER['PHP_SELF']);
 </head>
 
 <body>
-    <div class="py-md-5 py-4 border-bottom">
+    <div class="py-4 border-bottom" style="background-color:#e6f0efff;">
         <div class="container">
             <div class="row no-gutters d-flex align-items-start align-items-center px-3 px-md-0">
                 <div class="col-md-4 order-md-2 mb-2 mb-md-0 align-items-center text-center">
                     <a class="navbar-brand" href="/theowlishmind/index">
-                        <img src="/theowlishmind/assets/images/owlish-mind_logo.png" alt="The Owlish Mind Logo"
-                            height="70" />
+                        <img src="/theowlishmind/assets/images/owlish-mind-logo.png" alt="The Owlish Mind Logo" height="120" />
                     </a>
                 </div>
                 <div class="col-md-4 order-md-1 d-flex topper mb-md-0 mb-2 align-items-center text-md-right">
@@ -100,7 +99,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                             <span>Oppointments Only</span>
                         </p>
                         <p class="mb-0">
-                            <a href="/theowlishmind/index#bookappointment" class="btn btn-secondary px-3 scroll-link">Book Appoinment Now</a>
+                            <a href="/theowlishmind/index#book-appointment" class="btn btn-secondary px-3 scroll-link">Book Appoinment Now</a>
                         </p>
                     </div>
                 </div>

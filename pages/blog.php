@@ -1,6 +1,6 @@
 <?php require '../includes/header.php'; ?>
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common_banner.png');"
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common-banner.png');"
     data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">

@@ -1,6 +1,6 @@
 <?php require '../includes/header.php'; ?>
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common_banner.png');" data-stellar-background-ratio="0.5">
+<section class="hero-wrap hero-wrap-2" style="background-image: url('/theowlishmind/assets/images/common-banner.png');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -39,7 +39,7 @@
                     </div>
                     <div class="col-md-7">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Individual Counselling</h3>
+                            <h3 class="heading service-heading">Individual Counselling</h3>
                             <p>
                                 <b>One-on-one therapy tailored to address personal concerns such as:</b><br>
                                 • Anxiety, depression, and trauma<br>
@@ -57,7 +57,7 @@
                 <div class="row w-100 align-items-center">
                     <div class="col-md-8">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Psychotherapy & Specialized Therapeutic Approaches</h3>
+                            <h3 class="heading service-heading">Psychotherapy & Specialized Therapeutic Approaches</h3>
                             <p>
                                 <b>Our therapy sessions integrate scientifically backed approaches, including:</b><br>
                                 • Cognitive Behavioural Therapy (CBT): Restructuring negative thought patterns and developing healthier coping mechanisms.<br>
@@ -82,7 +82,7 @@
                     </div>
                     <div class="col-md-7">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Psycho-Diagnostic Assessments</h3>
+                            <h3 class="heading service-heading">Psycho-Diagnostic Assessments</h3>
                             <p>
                                 <b>We conduct standardized assessments to evaluate:</b><br>
                                 • Learning Disabilities (Dyslexia, Dyscalculia, Dysgraphia)<br>
@@ -102,7 +102,7 @@
                 <div class="row w-100 align-items-center">
                     <div class="col-md-7">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Career Counselling & Guidance</h3>
+                            <h3 class="heading service-heading">Career Counselling & Guidance</h3>
                             <p>
                                 <b>Helping students and professionals navigate career decisions with:</b><br>
                                 • Aptitude & Interest Assessments for academic and professional choices<br>
@@ -125,7 +125,7 @@
                     </div>
                     <div class="col-md-7">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Couple Therapy & Relationship Counselling</h3>
+                            <h3 class="heading service-heading">Couple Therapy & Relationship Counselling</h3>
                             <p>
                                 <b>Our structured sessions help couples:</b><br>
                                 • Improve communication and conflict resolution skills<br>
@@ -142,7 +142,7 @@
                 <div class="row w-100 align-items-center">
                     <div class="col-md-7">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Group Therapy & Support Groups</h3>
+                            <h3 class="heading service-heading">Group Therapy & Support Groups</h3>
                             <p>
                                 <b>We provide guided therapy sessions in a supportive environment for:</b><br>
                                 • Social anxiety and self-confidence building<br>
@@ -165,7 +165,7 @@
                     </div>
                     <div class="col-md-7">
                         <div class="media-body p-2 mt-3">
-                            <h3 class="heading">Remediation Services for Students with Learning & Behavioural Challenges</h3>
+                            <h3 class="heading service-heading">Remediation Services for Students with Learning & Behavioural Challenges</h3>
                             <p>
                                 <b>We support children with diverse learning needs through:</b><br>
                                 • Cognitive training and memory enhancement exercises<br>

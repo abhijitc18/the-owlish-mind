@@ -4854,6 +4854,7 @@ input[type="button"].btn-block {
   border: 1px solid transparent;
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
+  font-weight: 500;
 }
 
 .nav-tabs .nav-link:hover,
@@ -11730,7 +11731,7 @@ h5,
 }
 
 .ftco-navbar-light {
-  background: #a8c337cc !important;
+  background: #ffc85778 !important;
   z-index: 3;
   padding: 0;
 }
@@ -11766,12 +11767,12 @@ h5,
 }
 
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-  font-size: 15px;
+  font-size: 17px;
   padding-top: 2rem;
   padding-bottom: 2rem;
   padding-left: 20px;
   padding-right: 20px;
-  font-weight: 400;
+  font-weight: 500;
   color: #000000;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -12010,7 +12011,7 @@ h5,
   bottom: 0;
   content: "";
   opacity: 0.5;
-  background: #46b7de;
+  background: #2c7a7b;
 }
 
 .hero-wrap.hero-wrap-2 {
@@ -12521,8 +12522,17 @@ h5,
 }
 
 .ftco-services .services .media-body h3 {
-  font-size: 25px !important;
+  font-size: 15px !important;
   color: #000000;
+  font-weight: 500 !important;
+}
+
+.ftco-services .services .media-body .service-heading {
+  font-size: 25px !important;
+  font-weight: 600 !important;
+}
+
+.ftco-choose h2 {
   font-weight: 600 !important;
 }
 
@@ -12531,6 +12541,15 @@ h5,
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
+}
+
+.intro h3 {
+  color: #fff;
+  font-weight: 600;
+}
+
+.intro p {
+  color: #fff;
 }
 
 @media (max-width: 991.98px) {
@@ -12570,7 +12589,7 @@ h5,
   bottom: 0;
   content: "";
   opacity: 0.8;
-  background: #46b7de;
+  background: #2c7a7b;
 }
 
 .staff {
@@ -12950,6 +12969,10 @@ textarea.form-control {
   visibility: hidden;
 }
 
+.ftco-animate h4 {
+  font-weight: 500;
+}
+
 .bg-primary {
   background: #46b7de !important;
 }
@@ -12986,7 +13009,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 14px;
-  background: #46b7de;
+  background: #2c7a7b;
   padding: 3em 0;
 }
 
@@ -13423,8 +13446,8 @@ textarea.form-control {
 }
 
 .testimony-wrap .user-img {
-  width: 120px;
-  height: 120px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   position: relative;
 }
@@ -14237,4 +14260,28 @@ select.form-control option {
   font-size: 20px;
   color: #46b7de;
   margin-right: 10px;
+}
+
+/* Footer Button */
+.go-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 1050;
+  display: none;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  width: 48px;
+  height: 48px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s;
+}
+
+.whatsapp-btn {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  z-index: 1050;
+  /* Optional: add a nice drop shadow */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
