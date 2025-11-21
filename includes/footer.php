@@ -215,7 +215,7 @@
 
     <!-- Place the buttons here -->
     <button id="goToTopBtn" class="btn btn-secondary go-to-top" title="Go to Top">↑</button>
-    <a href="https://wa.me/918482982602" target="_blank" class="whatsapp-btn" title="Chat on WhatsApp">
+    <a href="https://wa.me/917385507338" target="_blank" class="whatsapp-btn" title="Chat on WhatsApp">
         <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" style="width:48px;height:48px;">
     </a>
 

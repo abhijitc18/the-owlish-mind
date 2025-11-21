@@ -84,8 +84,7 @@
                 <div class="bg-light d-flex align-self-stretch box p-4">
                     <p>
                         <span>Phone:</span>
-                        <a href="tel:7385507338">+91 7385507338</a> <br>
-                        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="tel:8482982602">+91 8482982602</a>
+                        <a href="tel:7385507338">+91 7385507338</a>
                     </p>
                 </div>
             </div>
